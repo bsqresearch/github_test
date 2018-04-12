@@ -4,7 +4,9 @@ Created on Mon Sep 25 09:03:20 2017
 
 @author: divya
 
-Add new CBBC codes to DB
+Add new CBBC codes to DB 
+
+test sample for github
 """
 
 from sqlalchemy import create_engine
